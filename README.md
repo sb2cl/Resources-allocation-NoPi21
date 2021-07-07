@@ -1,7 +1,7 @@
 # Resources-allocation-NoPi21
-Contains the Matlab code and data files used in the paper: Resources allocation explains the differential roles of RBS and promoter strengths in cell mass distribution and optimal protein expression productivity.
+Contains the Matlab code and data files used in the paper: RBS and promoter strengths determine the cell growth-dependent protein mass fractions and their optimal synthesis rates.
 
-The subfolders within /SI_software include the self-contained Matlab scripts required to produce the results included in the figures of the main text of the paper.
+The subfolders include the self-contained Matlab scripts required to produce the results included in the figures both in the main text and the SI of the paper.
 
 For the parameters fitting we used the global optimizaiton software MEIGO (see Methods 5.3 in the main text) which is available at:
       http://gingproc.iim.csic.es/meigo.html
